@@ -2,8 +2,3 @@ colorama
 requests
 tabulate
 adb-shell
-webbrowser
-# Additional packages for production reliability
-# Example: numpy
-# Example: pandas
-# Example: logging
