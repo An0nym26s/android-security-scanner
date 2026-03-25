@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+ENV/*
+
+# IDE files
+*.idea/
+*.vscode/
+
+# Logs
+*.log
+
+# Generated scan results
+results/
+scan_results/
